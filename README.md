@@ -7,6 +7,6 @@ I collected the tracklist and lyrics data myself. The sentiment analysis code wa
 
 https://www.codecademy.com/courses/case-study-analyze-taylor-swift-lyrics/projects/analyze-taylor-swift-lyrics
 
-I created the base data visualizations in https://www.rawgraphs.io/ and imported the SVG into Illustrator to edit them. 
+I created the base data visualizations in https://www.rawgraphs.io/, downloaded them as SVGs, imported into Illustrator, and then edited them further. 
 
 Enjoy and happy listening! 💜🎶🎧
