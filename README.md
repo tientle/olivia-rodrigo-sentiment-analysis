@@ -1,7 +1,8 @@
 # olivia-rodrigo-sentiment-analysis
 
-![image](https://github.com/tientle/olivia-rodrigo-sentiment-analysis/assets/71688550/f4ce692a-1443-48ac-8bfd-b242948ae20a)
-![image](https://github.com/tientle/olivia-rodrigo-sentiment-analysis/assets/71688550/28431678-561b-4c4d-8fe6-bc2ff29da8f6)
+![image](https://github.com/tientle/olivia-rodrigo-sentiment-analysis/assets/71688550/cdd1b5e6-18f3-429a-b0af-d3eee2e6f697)
+![image](https://github.com/tientle/olivia-rodrigo-sentiment-analysis/assets/71688550/2e395283-194f-475e-aeb7-2b950381e631)
+
 
 
 ## Description
