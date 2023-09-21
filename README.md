@@ -12,6 +12,15 @@ I collected the tracklist and lyrics data myself. The sentiment analysis code wa
 
 https://www.codecademy.com/courses/case-study-analyze-taylor-swift-lyrics/projects/analyze-taylor-swift-lyrics
 
-I created the base data visualizations in https://www.rawgraphs.io/, downloaded them as SVGs, imported into Illustrator, and then edited them further. 
+I created the base data visualizations in https://www.rawgraphs.io/, downloaded them as SVGs, imported into Illustrator, and then edited them further.
+
+### Sour base chart
+
+![sour_base](https://github.com/tientle/olivia-rodrigo-sentiment-analysis/assets/71688550/19f66a8b-d987-41be-80a3-c911d44cc27e)
+
+### Guts base chart
+
+![guts_base](https://github.com/tientle/olivia-rodrigo-sentiment-analysis/assets/71688550/de74e0da-a60b-455c-abc6-7800c4f7d696)
+
 
 Enjoy and happy listening! 💜🎶🎧
