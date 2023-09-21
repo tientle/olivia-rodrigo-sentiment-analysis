@@ -1,5 +1,9 @@
 # olivia-rodrigo-sentiment-analysis
 
+![image](https://github.com/tientle/olivia-rodrigo-sentiment-analysis/assets/71688550/f4ce692a-1443-48ac-8bfd-b242948ae20a)
+![image](https://github.com/tientle/olivia-rodrigo-sentiment-analysis/assets/71688550/28431678-561b-4c4d-8fe6-bc2ff29da8f6)
+
+
 ## Description
 Just of out curiosity, I wanted to run a sentiment analysis on Olivia Rodrigo's albums and make some data visualizations out of them. 
 
